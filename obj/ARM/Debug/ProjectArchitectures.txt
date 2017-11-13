@@ -1,0 +1,1 @@
+C:\Projects\IoT\samples-develop\Azure\HelloCloud\HelloCloud.csproj;arm
